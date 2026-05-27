@@ -2,7 +2,6 @@
 	margin:20px;
 	font-size:16px;
 	font-family: Arial;
-	color:grey;
 }
 #container::Before{
 	content: "Before Element ";
