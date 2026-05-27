@@ -1,13 +1,12 @@
 /*  your css code here. If applicable */
 #container{
 	margin:20px;
-	font-size:20px;
-	font-family:Arial;
+	font-size:16px;
+	
 }
 #container::Before{
 	content: "Before Element ";
 	font-size:20px;
-	font-family:Arial;
 	color: #f00;
 }
 #container::After{
