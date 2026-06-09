@@ -1,6 +1,5 @@
 #container{
 	margin:20px;
-	font-size:15px;
 	font-family: Arial;
 }
 #container::Before{
